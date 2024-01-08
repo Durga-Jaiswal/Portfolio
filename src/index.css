@@ -263,7 +263,7 @@ img{
   margin:0 5px;
 }
 .portfolio--img{
-  background: url("public/assets/Durga Jaiswal.jpg");
+  background: url("src/assets/Durga Jaiswal.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
