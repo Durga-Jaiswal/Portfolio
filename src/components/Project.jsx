@@ -8,7 +8,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://currency-converter-khaki-psi.vercel.app/">
-                    <img src="src/assets/Currency Converter.png" />
+                    <img src="/assets/Currency Converter.png" />
                 </a> 
             </div>
             <p>Currency Converter</p>
@@ -22,7 +22,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://tic-tac-toe-game-gamma-six.vercel.app/">
-                    <img src="src/assets/Tic-Tac-Toe Game.png" />
+                    <img src="/assets/Tic-Tac-Toe Game.png" />
                 </a> 
             </div>
             <p>Tic-Tac-Toe Game</p>
@@ -36,7 +36,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Shopping-List-App/">
-                    <img src="src/assets/Shopping App.png" />
+                    <img src="/assets/Shopping App.png" />
                 </a> 
             </div>
             <p>Shopping Cart App</p>
@@ -50,7 +50,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://password-generator-eight-ecru.vercel.app/">
-                    <img src="src/assets/Password Generator.png" />
+                    <img src="/assets/Password Generator.png" />
                 </a> 
             </div>
             <p>Password Generator</p>
@@ -64,7 +64,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://lorem-ipsum-generator-omega.vercel.app/">
-                    <img src="src/assets/Lorem-Ipsum Generator.png" />
+                    <img src="/assets/Lorem-Ipsum Generator.png" />
                 </a> 
             </div>
             <p>Lorem-Ipsum Generator</p>
@@ -78,7 +78,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://faq-accordion-puce-three.vercel.app/">
-                    <img src="src/assets/FAQ Accordion.png" />
+                    <img src="/assets/FAQ Accordion.png" />
                 </a> 
             </div>
             <p>FAQ Accordion</p>
@@ -92,7 +92,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://review-page-dusky.vercel.app/">
-                    <img src="src/assets/Review Slider.png" />
+                    <img src="/assets/Review Slider.png" />
                 </a> 
             </div>
             <p>Review Slider</p>
@@ -106,7 +106,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://tours-project-delta.vercel.app/">
-                    <img src="src/assets/Food Menu.png" />
+                    <img src="/assets/Food Menu.png" />
                 </a> 
             </div>
             <p>Tour Site</p>
@@ -120,7 +120,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://tab-component-sable.vercel.app/">
-                    <img src="src/assets/Tab-Component.png" />
+                    <img src="/assets/Tab-Component.png" />
                 </a> 
             </div>
             <p>Tab Component</p>
@@ -134,7 +134,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Advice-Generator-Project/">
-                    <img src="src/assets/Advice Generator.png" />
+                    <img src="/assets/Advice Generator.png" />
                 </a> 
             </div>
             <p>Advice Generator</p>
@@ -149,7 +149,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Age---Calculator---App/">
-                    <img src="src/assets/Age Calculator.png" />
+                    <img src="/assets/Age Calculator.png" />
                 </a> 
             </div>
             <p>Age Calculator</p>
@@ -163,7 +163,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Preview-Card-Component/">
-                    <img src="src/assets/Preview Card.png" />
+                    <img src="/assets/Preview Card.png" />
                 </a> 
             </div>
             <p>Preview Card</p>
@@ -177,7 +177,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Rating-Component/" >
-                    <img src="src/assets/Rating Card.png" />
+                    <img src="/assets/Rating Card.png" />
                 </a> 
             </div>
             <p>Rating Card</p>
@@ -191,7 +191,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Result-Summary-Project/">
-                    <img src="src/assets/Result Summary.png" />
+                    <img src="/assets/Result Summary.png" />
                 </a> 
             </div>
             <p>Result Summary</p>
@@ -205,7 +205,7 @@ function Project() {
         <div className="project-card">
             <div className="img-container" >
                 <a target="_blank" href="https://durga-jaiswal.github.io/Product-Preview-Card-Component/" >
-                    <img src="src/assets/Product Preview Card.png" />
+                    <img src="/assets/Product Preview Card.png" />
                 </a> 
             </div>
             <p>Product Preview Card</p>
