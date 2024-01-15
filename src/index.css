@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Poppins:wght@400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Poppins:wght@400;500;600&family=Style+Script&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 *{
   margin:0;
   padding:0;
@@ -88,7 +88,7 @@ body, button, textarea, input{
 }
 body{
   background-color: var(--body-color);
-  color:var(--title-color)
+  color:var(--title-color);
 }
 h1, h2, h3{
   color:var(--text-color);
@@ -236,11 +236,12 @@ img{
   border-left: 5px solid var(--text-color)
 }
 .section--desc h1{
-  font-size:4rem;
+  font-family: 'Outfit', sans-serif;
+  font-size:3rem;
   font-weight: 900;
 }
 .section--desc h2{
-  font-size:2.1rem;
+  font-size:1.8rem;
 }
 .btn{
   display:flex;
@@ -258,7 +259,7 @@ img{
 }
 .hello-icon{
   display:inline;
-  font-size:1.5rem;
+  font-size:1.3rem;
   text-align: center;
   margin:0 5px;
 }
@@ -268,8 +269,8 @@ img{
   background-position: center;
   background-size: cover;
   box-shadow:inset 0 0 0 9px rgb(255 255 255 / 30%);
-  height:350px;
-  width:350px;
+  height:300px;
+  width:300px;
   order:1;
   justify-self: center;
   border-radius:50%;
